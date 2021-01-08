@@ -8,7 +8,7 @@
 
 📝 My research interests cover both Natural Language Processing (NLP) and Artificial Intelligence for/in Games. 
 
-💻 During the day, I work as a **Machine Learning Engineer** at <a href="https://www.madstreetden.com/">Mad Street Den</a> (<a href="https://vue.ai/">Vue.ai</a>) where I build NLP systems for intelligent retail automation. 
+💻 During the day, I'm a graduate student in the Computing Science Department of the University of Alberta. Previously I worked as a **Machine Learning Engineer** at <a href="https://www.madstreetden.com/">Mad Street Den</a> (<a href="https://vue.ai/">Vue.ai</a>) where I built NLP systems for intelligent retail automation. 
 
 🔭 By nights, I work on [Homebrew Helper](https://github.com/akashsara/homebrew_helper), a useful little bot that's made Dungeons & Dragons a lot easier to play online.
 
