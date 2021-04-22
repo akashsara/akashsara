@@ -1,4 +1,4 @@
-<h1 align="center">Hello There</h1>
+<h1 align="center">Hello There!</h1>
 <h2 align="center">I'm Akash Saravanan</h2>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 🌱 I’m currently dabbling in **Reinforcement Learning**.
 
-💬 Ask me about: **Anything! I'm always open to chat.**
+💬 Ask me about: **Anything!** I'm always open to chat. Feel free to reach out to me via [email](mailto:akashsara@outlook.com) or [LinkedIn](https://www.linkedin.com/in/akashsara/).
 
 **Languages & Databases**:
 <p align="left">
